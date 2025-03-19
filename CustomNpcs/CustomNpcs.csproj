@@ -8,6 +8,7 @@
     <Platforms>AnyCPU</Platforms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
   </PropertyGroup>
   <PropertyGroup>
     <RpgToolsPropsPath>..\..\RpgTools.props</RpgToolsPropsPath>
